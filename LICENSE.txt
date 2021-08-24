@@ -1,0 +1,3 @@
+This work is licensed under Attribution 4.0 International
+Transform rules (c) Hiroshi Takenaka
+Javascript port (c) NulAsh
